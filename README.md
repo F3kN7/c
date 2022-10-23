@@ -1,4 +1,4 @@
-#C
-###C programing
+# C
+### C programing
 
-*Italic*Exercises, academic works and personal projects for study =)
+*Exercises, academic works and personal projects for study =)*
