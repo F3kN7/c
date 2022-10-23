@@ -5,4 +5,4 @@
 
 *Exercises, academic works and personal projects for study* :sunglasses:
 
-    printf("Hello C World");
+    printf("Hello C World!");
